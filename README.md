@@ -8,7 +8,7 @@
   </a>
 
   <a href="https://www.youtube.com/@nehemiaslindao3661" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/640px-YouTube_full-color_icon_%282017%29.svg.png" alt="YouTube" width="30" style="margin-right: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/640px-GitHub_Invertocat_Logo.svg.png" alt="YouTube" width="30" style="margin-right: 10px;">
   </a>
 
   <a href="https://twitter.com" target="_blank">
