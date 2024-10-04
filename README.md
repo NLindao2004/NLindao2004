@@ -8,11 +8,11 @@
   </a>
 
   <a href="https://www.youtube.com/@nehemiaslindao3661" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.svg" alt="YouTube" width="30" style="margin-right: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/640px-YouTube_full-color_icon_%282017%29.svg.png" alt="YouTube" width="30" style="margin-right: 10px;">
   </a>
 
   <a href="https://twitter.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_as_of_2021.svg" alt="Twitter" width="30" style="margin-right: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/640px-X_logo_2023.svg.png" alt="Twitter" width="30" style="margin-right: 10px;">
   </a>
 </div>
 
