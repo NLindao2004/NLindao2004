@@ -20,9 +20,11 @@
 
 
 
-# Mi sitio personal
-Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
-proyectos y mis intereses.
+# Perfil personal
+Hola, soy Nehemías Lindao, estudiante de la Universidad ESPOL en la carrera de Ingeniería en Computación. Me apasiona el desarrollo Frontend y tengo experiencia colaborando en pequeños proyectos de terceros. También me interesa el Backend, especialmente con un enfoque en ciberseguridad. Me gustaría aprender lenguajes de programación como PHP o C# para ampliar mis habilidades y explorar nuevas oportunidades en el desarrollo de software.
+
+Además, disfruto aprender sobre nuevas tecnologías y mejorar constantemente mis conocimientos y habilidades. Me motiva la idea de construir aplicaciones que puedan tener un impacto real y positivo en la vida de las personas. Estoy siempre abierto a colaborar en proyectos que presenten desafíos interesantes y me permitan crecer en mi vida profesional.
+
 ## Contenido
 * [Información personal](#información-personal)
 * [Proyectos](#proyectos)
