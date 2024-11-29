@@ -41,8 +41,31 @@ Además, disfruto aprender sobre nuevas tecnologías y mejorar constantemente mi
 * Ocupación: [Tu ocupación]
 * Lugar de residencia: [Tu lugar de residencia]
 * Sitio web: [Tu sitio web]
-## Proyectos
-* [Lista de tus proyectos]
+
+
+## 💻 Proyectos
+
+### 🍦 Heladería  
+Un proyecto desarrollado en Java con **NetBeans** y utilizando **Scene Builder** para crear una interfaz gráfica intuitiva. La aplicación simula la gestión de una heladería, permitiendo funcionalidades como el manejo de inventario, creación de pedidos y más.  
+**Tecnologías utilizadas**:  
+- Java  
+- JavaFX (Scene Builder)  
+[Repositorio](https://github.com/NLindao2004/POO4_PROY2P_Lindao_Salinas_Zavala)
+
+### 🌐 Landing Page  
+Proyecto basado en una plantilla HTML y **Bootstrap**, donde se personalizó completamente la estructura, los estilos y se añadieron funcionalidades dinámicas. Además, se integraron APIs mediante métodos **POST** y **GET** para mejorar la interactividad y el dinamismo de la página.  
+**Tecnologías utilizadas**:  
+- HTML5  
+- CSS3  
+- Bootstrap  
+- JavaScript  
+[Sitio Web](https://nlindao2004.github.io/landing/)
+
+### 🌟 Próximos Desarrollos
+
+- Desarrollo de **Kiosco Touch de Pedidos en línea**.
+
+
 ## Intereses
 - **Desarrollo Front-End**: Creación de interfaces de usuario interactivas y responsivas utilizando frameworks como React, Angular y Vue.js.
 - **Desarrollo Back-End**: Construcción de servidores y APIs robustas con Node.js, Django o Laravel.
