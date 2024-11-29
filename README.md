@@ -89,7 +89,7 @@ Además, disfruto aprender sobre nuevas tecnologías y mejorar constantemente mi
    </a>
 </p>
 
- ### <picture> <img src = "https://github.com/NLindao2004/NLindao2004/blob/main/herramientas.gif?raw=true" width = 50px>  </picture> Software & Herramientas
+### <picture> <img src = "https://github.com/NLindao2004/NLindao2004/blob/main/herramientas.gif?raw=true" width = 50px>  </picture> Software & Herramientas
  
 <p align="center">
   &emsp;
@@ -104,7 +104,7 @@ Además, disfruto aprender sobre nuevas tecnologías y mejorar constantemente mi
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
 </p>
 
- ### <picture> <img src = "https://raw.githubusercontent.com/NLindao2004/NLindao2004/refs/heads/main/IDES.gif" width = 50px>  </picture> IDEs
+### <picture> <img src = "https://raw.githubusercontent.com/NLindao2004/NLindao2004/refs/heads/main/IDES.gif" width = 50px>  </picture> IDEs
  
 <p align="center">
   &emsp;
@@ -114,7 +114,7 @@ Además, disfruto aprender sobre nuevas tecnologías y mejorar constantemente mi
 </p>
 
 
- ### <picture> <img src = "https://raw.githubusercontent.com/NLindao2004/NLindao2004/refs/heads/main/YCZM.gif" width = 50px>  </picture> Sistemas Operativos
+### <picture> <img src = "https://raw.githubusercontent.com/NLindao2004/NLindao2004/refs/heads/main/YCZM.gif" width = 50px>  </picture> Sistemas Operativos
  
 <p align="center">
   &emsp;
