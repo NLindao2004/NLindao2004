@@ -51,7 +51,7 @@ Un proyecto desarrollado en Java con **NetBeans** y utilizando **Scene Builder**
 - Java  
 - JavaFX (Scene Builder)  
 [Repositorio](https://github.com/NLindao2004/POO4_PROY2P_Lindao_Salinas_Zavala)
-
+---
 ### 🌐 Landing Page  
 Proyecto basado en una plantilla HTML y **Bootstrap**, donde se personalizó completamente la estructura, los estilos y se añadieron funcionalidades dinámicas. Además, se integraron APIs mediante métodos **POST** y **GET** para mejorar la interactividad y el dinamismo de la página.  
 **Tecnologías utilizadas**:  
@@ -60,9 +60,8 @@ Proyecto basado en una plantilla HTML y **Bootstrap**, donde se personalizó com
 - Bootstrap  
 - JavaScript  
 [Sitio Web](https://nlindao2004.github.io/landing/)
-
-### 🌟 Próximos Desarrollos
-
+---
+### 🚀 Próximos Desarrollos
 - Desarrollo de **Kiosco Touch de Pedidos en línea**.
 
 
@@ -157,4 +156,6 @@ Proyecto basado en una plantilla HTML y **Bootstrap**, donde se personalizó com
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do.&author=Steve%20Jobs" alt="Readme Quotes">
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/NLindao2004anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
