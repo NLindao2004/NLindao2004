@@ -33,7 +33,7 @@ Además, disfruto aprender sobre nuevas tecnologías y mejorar constantemente mi
 * [Información personal](#información-personal)
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
-* [Mis habilidades](#mis-habilidades)
+* [Mis habilidades](#habilidades)
 
 
 ## Información personal
