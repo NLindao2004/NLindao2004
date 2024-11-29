@@ -1,7 +1,7 @@
 <h1 align="center">Hola soy Nehemias Lindao 🤖</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Estudiante+de+Ciencias+de+la+Computación;Programador+competitivo;Siempre+aprendiendo+cosas+nuevas"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Estudiante+de+Ciencias+de+la+Computación;Programador+competitivo;Siempre+aprendiendo+cosas+nuevas">
 </p>
 
 <div style="display: flex; align-items: center;">
@@ -132,4 +132,5 @@ Además, disfruto aprender sobre nuevas tecnologías y mejorar constantemente mi
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
 </p>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quote=bkbkbajajajjajajjaja&author=for me)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do.&author=Steve%20Jobs)](https://github.com/piyushsuthar/github-readme-quotes)
+
