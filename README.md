@@ -157,5 +157,5 @@ Proyecto basado en una plantilla HTML y **Bootstrap**, donde se personalizó com
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do.&author=Steve%20Jobs" alt="Readme Quotes">
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/NLindao2004anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?NLindao2004=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
