@@ -38,14 +38,14 @@ Además, disfruto aprender sobre nuevas tecnologías y mejorar constantemente mi
 
 ## 💻 Proyectos
 
-### 🍦 Heladería  
+###🍦 Heladería  
 Un proyecto desarrollado en Java con **NetBeans** y utilizando **Scene Builder** para crear una interfaz gráfica intuitiva. La aplicación simula la gestión de una heladería, permitiendo funcionalidades como el manejo de inventario, creación de pedidos y más.  
 **Tecnologías utilizadas**:  
 - Java  
 - JavaFX (Scene Builder)  
 [Repositorio](https://github.com/NLindao2004/POO4_PROY2P_Lindao_Salinas_Zavala)
 ---
-### 🌐 Landing Page  
+###🌐 Landing Page  
 Proyecto basado en una plantilla HTML y **Bootstrap**, donde se personalizó completamente la estructura, los estilos y se añadieron funcionalidades dinámicas. Además, se integraron APIs mediante métodos **POST** y **GET** para mejorar la interactividad y el dinamismo de la página.  
 **Tecnologías utilizadas**:  
 - HTML5  
@@ -54,7 +54,7 @@ Proyecto basado en una plantilla HTML y **Bootstrap**, donde se personalizó com
 - JavaScript  
 [Sitio Web](https://nlindao2004.github.io/landing/)
 ---
-### 🚀 Próximos Desarrollos
+###🚀 Próximos Desarrollos
 - Desarrollo de **Kiosco Touch de Pedidos en línea**.
 
 
