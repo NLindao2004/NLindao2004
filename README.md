@@ -30,17 +30,10 @@ Además, disfruto aprender sobre nuevas tecnologías y mejorar constantemente mi
 
 
 ## Contenido
-* [Información personal](#información-personal)
 * [Proyectos](#proyectos)
 * [Intereses](#intereses)
 * [Habilidades](#habilidades)
-
-
-## Información personal
-* Nombre: [Tu nombre]
-* Ocupación: [Tu ocupación]
-* Lugar de residencia: [Tu lugar de residencia]
-* Sitio web: [Tu sitio web]
+* [Información Adicional](#información-adicional)
 
 
 ## 💻 Proyectos
@@ -65,7 +58,7 @@ Proyecto basado en una plantilla HTML y **Bootstrap**, donde se personalizó com
 - Desarrollo de **Kiosco Touch de Pedidos en línea**.
 
 
-## Intereses
+## 🌟 Intereses
 - **Desarrollo Front-End**: Creación de interfaces de usuario interactivas y responsivas utilizando frameworks como React, Angular y Vue.js.
 - **Desarrollo Back-End**: Construcción de servidores y APIs robustas con Node.js, Django o Laravel.
 - **Aplicaciones Móviles**: Desarrollo de apps nativas y multiplataforma con Flutter, React Native o Kotlin.
@@ -153,10 +146,8 @@ Proyecto basado en una plantilla HTML y **Bootstrap**, donde se personalizó com
   &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
 </p>
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do.&author=Steve%20Jobs" alt="Readme Quotes">
-</div>
 
+## ℹ️ Información Adicional
 <table>
   <tr>
     <td>
@@ -167,4 +158,8 @@ Proyecto basado en una plantilla HTML y **Bootstrap**, donde se personalizó com
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do.&author=Steve%20Jobs" alt="Readme Quotes">
+</div>
 
