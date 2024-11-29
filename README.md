@@ -1,7 +1,7 @@
 <h1 align="center">Hola soy Nehemias Lindao 🤖</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Estudiante+de+Ciencias+de+la+Computación;Programador+competitivo;Siempre+aprendiendo+cosas+nuevas"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Estudiante+de+Ciencias+de+la+Computación;Programador+competitivo;Siempre+aprendiendo+cosas+nuevas"></a>
 </p>
 
 <div style="display: flex; align-items: center;">
@@ -44,7 +44,14 @@ Además, disfruto aprender sobre nuevas tecnologías y mejorar constantemente mi
 ## Proyectos
 * [Lista de tus proyectos]
 ## Intereses
-* [Lista de tus intereses]
+- **Desarrollo Front-End**: Creación de interfaces de usuario interactivas y responsivas utilizando frameworks como React, Angular y Vue.js.
+- **Desarrollo Back-End**: Construcción de servidores y APIs robustas con Node.js, Django o Laravel.
+- **Aplicaciones Móviles**: Desarrollo de apps nativas y multiplataforma con Flutter, React Native o Kotlin.
+- **Integración de APIs**: Consumo y creación de APIs RESTful y GraphQL para comunicación entre servicios.
+- **Frameworks y Librerías**: Uso de herramientas modernas para acelerar el desarrollo y mejorar la calidad del código.
+- **Arquitectura de Software**: Diseño de sistemas escalables y mantenibles aplicando principios SOLID y patrones de diseño.
+- **Pruebas y Depuración**: Implementación de pruebas unitarias y funcionales para garantizar la fiabilidad del software.
+
 
 ## 🛠️ habilidades
 
